@@ -1,25 +1,25 @@
-Mês previsto,var_target,Fator_Influenciador
-01~mes,kt,chuvas - Mês: 12~mes - Local: SP
-01~mes,oc,chuvas - Mês: 02~mes - Local: MT
-02~mes,kt,
-02~mes,oc,chuvas - Mês: 12~mes - Local: MG
-03~mes,kt,
-03~mes,oc,chuvas - Mês: 07~mes - Local: SP
-04~mes,kt,
-04~mes,oc,chuvas - Mês: 02~mes - Local: RS
-05~mes,kt,chuvas - Mês: 11~mes - Local: PA
-05~mes,oc,chuvas - Mês: 09~mes - Local: GO
-06~mes,kt,
-06~mes,oc,chuvas - Mês: 12~mes - Local: MG
-07~mes,kt,
-07~mes,oc,chuvas - Mês: 09~mes - Local: BA
-08~mes,kt,
-08~mes,oc,chuvas - Mês: 02~mes - Local: MG
-09~mes,kt,chuvas - Mês: 07~mes - Local: MG
-09~mes,oc,chuvas - Mês: 02~mes - Local: DF
-10~mes,kt,
-10~mes,oc,chuvas - Mês: 02~mes - Local: DF
-11~mes,kt,
-11~mes,oc,chuvas - Mês: 01~mes - Local: MG
-12~mes,kt,chuvas - Mês: 02~mes - Local: MG
-12~mes,oc,chuvas - Mês: 10~mes - Local: RS
+Mês previsto,var_target,Fator influenciador
+01,kt,chuvas-Mês: 12 - Local: SP
+01,oc,chuvas-Mês: 02 - Local: MT
+02,kt,"Mês:02- Porto:PR para MT - Insecticidas, rodenticidas, fungicidas, herbicidas, inibidores de germinação e reguladores de crescimento para plantas, desinfectantes e produtos semelhantes, apresentados em formas ou embalagens para venda a retalho ou como preparações ou ainda sob a for - acumulado ano"
+02,oc,chuvas-Mês: 12 - Local: MG
+03,kt,Mês:03- Porto:PR para GO - Resíduos da extração do óleo de soja - peso
+03,oc,chuvas-Mês: 07 - Local: SP
+04,kt,"Mês:04- Porto:PR para MG - Óleos de petróleo ou de minerais betuminosos, exceto óleos brutos; preparações não especificadas nem compreendidas noutras posições, contendo, em peso, 70 % ou mais de óleos de petróleo ou de minerais betuminosos, os quais devem constituir o seu elemento - acumulado ano"
+04,oc,chuvas-Mês: 02 - Local: RS
+05,kt,chuvas-Mês: 11 - Local: PA
+05,oc,chuvas-Mês: 09 - Local: GO
+06,kt,"Mês:06- Porto:SC para MS - Pastas químicas de madeira, à soda ou ao sulfato, exceto pastas para dissolução - acumulado trimestre"
+06,oc,chuvas-Mês: 12 - Local: MG
+07,kt,"Mês:07- Porto:SP para MT - Adubos contendo dois ou três dos seguintes elementos fertilizantes: azoto (nitrogénio), fósforo e potássio; outros adubos (fertilizantes); produtos do presente capítulo apresentados em tabletes ou formas semelhantes,  - acumulado trimestre"
+07,oc,chuvas-Mês: 09 - Local: BA
+08,kt,"Mês:08- Porto:PR para MS - Fosfatos de cálcio naturais, fosfatos aluminocálcicos naturais e cré fosfatado - peso"
+08,oc,chuvas-Mês: 02 - Local: MG
+09,kt,chuvas-Mês: 07 - Local: MG
+09,oc,chuvas-Mês: 02 - Local: DF
+10,kt,"Mês:10- Porto:SC para MS - Pastas químicas de madeira, à soda ou ao sulfato, exceto pastas para dissolução - variação acumlulado ano"
+10,oc,chuvas-Mês: 02 - Local: DF
+11,kt,"Mês:11- Porto:ES para ES - Microscópios ópticos, incluídos os microscópios para fotomicrografia, cinefotomicrografia ou microprojecção - acumulado ano"
+11,oc,chuvas-Mês: 01 - Local: MG
+12,kt,chuvas-Mês: 02 - Local: MG
+12,oc,chuvas-Mês: 10 - Local: RS
