@@ -1,5 +1,5 @@
 names,importances,experiment_id,CO_MES,var_target
-"('02~mes', '-8:-60', 'mm')",0.021568726568894574,85692fda-ca98-4fee-b7fe-d4714f1b749a,02~mes,kt
-"('01~mes', '-19:-41', 'mm')",0.015098039215686275,85692fda-ca98-4fee-b7fe-d4714f1b749a,02~mes,oc
-"('08~mes', '072_10~geo', '1201~prdt', 'sm12')",0.0175694470189401,74076fbe-b7a9-4fe8-bfba-d720dc3764ee,08~mes,kt
-ANO,0.0,74076fbe-b7a9-4fe8-bfba-d720dc3764ee,08~mes,oc
+"('10~mes', '-18:-46', 'mm')",0.019855293397820366,5ff051da-677a-4de4-b84c-611e0f8aa68d,02~mes,kt
+"('11~mes', '-7:-43', 'mm')",0.013584193584193584,5ff051da-677a-4de4-b84c-611e0f8aa68d,02~mes,oc
+"('03~mes', '-3:-61', 'mm')",0.012208325461886401,77b0e5a2-5741-476f-bb2f-4fd4353792b1,08~mes,kt
+ANO,0.0,77b0e5a2-5741-476f-bb2f-4fd4353792b1,08~mes,oc

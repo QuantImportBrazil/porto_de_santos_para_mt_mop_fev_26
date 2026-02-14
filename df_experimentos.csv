@@ -7,3 +7,7 @@ experiment_id,date_max,n_repet,random_state,extra_sufixo_mark,fi_cut,n_fib,corte
 0  43.7     51.1 -0.7   -1.3  1.0  02~mes  817800_15~geo  31042090~prdt"
 74076fbe-b7a9-4fe8-bfba-d720dc3764ee,2026-01-01 00:00:00,5,1,_fev_26,0.8,20,2,9,1,2,1,5,8,1,1,4,"TimeSeriesSplit(gap=0, max_train_size=None, n_splits=5, test_size=None)",2,2,1,"   rmse  rmse_lr   r2  r2_lr  acc  CO_MES         CO_GEO        CO_PRDT
 0  94.4    115.2 -0.1   -0.6  1.0  08~mes  817800_15~geo  31042090~prdt"
+5ff051da-677a-4de4-b84c-611e0f8aa68d,2026-01-01 00:00:00,5,1,_fev_26,0.8,20,2,9,2,4,1,0,11,1,5,1,"TimeSeriesSplit(gap=0, max_train_size=None, n_splits=5, test_size=None)",2,2,1,"   rmse  rmse_lr   r2  r2_lr  acc  CO_MES         CO_GEO        CO_PRDT
+0  48.6     51.1 -1.1   -1.3  1.0  02~mes  817800_15~geo  31042090~prdt"
+77b0e5a2-5741-476f-bb2f-4fd4353792b1,2026-01-01 00:00:00,5,1,_fev_26,0.8,20,2,9,1,2,1,5,6,2,6,0,"TimeSeriesSplit(gap=0, max_train_size=None, n_splits=5, test_size=None)",2,2,1,"    rmse  rmse_lr   r2  r2_lr  acc  CO_MES         CO_GEO        CO_PRDT
+0  111.2    115.2 -0.5   -0.6  1.0  08~mes  817800_15~geo  31042090~prdt"
