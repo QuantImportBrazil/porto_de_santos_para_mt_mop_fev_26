@@ -1,25 +1,25 @@
 Mês previsto,var_target,Fator influenciador
 01,kt,chuvas-Mês: 12 - Local: SP
 01,oc,chuvas-Mês: 02 - Local: MT
-02,kt,"Mês:02- Porto:PR para MT - Insecticidas, rodenticidas, fungicidas, herbicidas, inibidores de germinação e reguladores de crescimento para plantas, desinfectantes e produtos semelhantes, apresentados em formas ou embalagens para venda a retalho ou como preparações ou ainda sob a for - acumulado ano"
+02,kt,"Mês:02- Porto:PR para MT - Inseti, herbi, fungicida - acumulado ano"
 02,oc,chuvas-Mês: 12 - Local: MG
-03,kt,Mês:03- Porto:PR para GO - Resíduos da extração do óleo de soja - peso
+03,kt,Mês:03- Porto:PR para GO - Farelo de Soja - peso
 03,oc,chuvas-Mês: 07 - Local: SP
-04,kt,"Mês:04- Porto:PR para MG - Óleos de petróleo ou de minerais betuminosos, exceto óleos brutos; preparações não especificadas nem compreendidas noutras posições, contendo, em peso, 70 % ou mais de óleos de petróleo ou de minerais betuminosos, os quais devem constituir o seu elemento - acumulado ano"
+04,kt,Mês:04- Porto:PR para MG - Óleos de petróleo - acumulado ano
 04,oc,chuvas-Mês: 02 - Local: RS
 05,kt,chuvas-Mês: 11 - Local: PA
 05,oc,chuvas-Mês: 09 - Local: GO
-06,kt,"Mês:06- Porto:SC para MS - Pastas químicas de madeira, à soda ou ao sulfato, exceto pastas para dissolução - acumulado trimestre"
+06,kt,Mês:06- Porto:SC para MS - Pasta de madeira - acumulado trimestre
 06,oc,chuvas-Mês: 12 - Local: MG
-07,kt,"Mês:07- Porto:SP para MT - Adubos contendo dois ou três dos seguintes elementos fertilizantes: azoto (nitrogénio), fósforo e potássio; outros adubos (fertilizantes); produtos do presente capítulo apresentados em tabletes ou formas semelhantes,  - acumulado trimestre"
+07,kt,Mês:07- Porto:SP para MT - Adubos NP ou NK ou PK - acumulado trimestre
 07,oc,chuvas-Mês: 09 - Local: BA
-08,kt,"Mês:08- Porto:PR para MS - Fosfatos de cálcio naturais, fosfatos aluminocálcicos naturais e cré fosfatado - peso"
+08,kt,Mês:08- Porto:PR para MS - Fosfatos de cálcio naturais - peso
 08,oc,chuvas-Mês: 02 - Local: MG
 09,kt,chuvas-Mês: 07 - Local: MG
 09,oc,chuvas-Mês: 02 - Local: DF
-10,kt,"Mês:10- Porto:SC para MS - Pastas químicas de madeira, à soda ou ao sulfato, exceto pastas para dissolução - variação acumlulado ano"
+10,kt,Mês:10- Porto:SC para MS - Pasta de madeira - variação acumlulado ano
 10,oc,chuvas-Mês: 02 - Local: DF
-11,kt,"Mês:11- Porto:ES para ES - Microscópios ópticos, incluídos os microscópios para fotomicrografia, cinefotomicrografia ou microprojecção - acumulado ano"
+11,kt,
 11,oc,chuvas-Mês: 01 - Local: MG
 12,kt,chuvas-Mês: 02 - Local: MG
 12,oc,chuvas-Mês: 10 - Local: RS
